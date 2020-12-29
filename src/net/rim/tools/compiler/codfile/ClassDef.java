@@ -185,11 +185,6 @@ public abstract class ClassDef extends net.rim.tools.compiler.codfile.CodfileIte
     {
     	if (!isStatic) {
     		System.out.println("----------------- addFieldDef");
-    		try {
-    			throw new Exception("yay");
-    		} catch (Exception e) {
-    			e.printStackTrace();
-    		}
     	}
         net.rim.tools.compiler.codfile.CodfileArray o1 = null;
         if(isStatic)

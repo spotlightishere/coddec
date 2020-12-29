@@ -207,6 +207,10 @@ implements net.rim.tools.compiler.vm.Constants
                 case 280:
                 case 281:
                 case 285:
+                case 286:
+                case 287:
+                case 288:
+                case 289:
                     break;
 
                 case 216:
